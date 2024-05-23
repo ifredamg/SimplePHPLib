@@ -1,0 +1,5 @@
+0;Not defined
+001;The unsupported database driver
+002;Database connection error
+100;Incorrect database configuration
+101;Database configuration incomplete
